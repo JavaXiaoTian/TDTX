@@ -1,5 +1,5 @@
-public class test01{
-    pubilc static voic main(){
+class test01{
+    public static void main(){
         System.out.println("hello github");
     }
 }
